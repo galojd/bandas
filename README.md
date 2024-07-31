@@ -1,3 +1,6 @@
+# Ejecicios basicos de javascript
+Son ejercicios basicos en javascript para recordar conceptos.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
